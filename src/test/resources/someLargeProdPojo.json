@@ -1,0 +1,8 @@
+{
+  "name": "nameVal",
+  "sex": "sexVal",
+  "address": "addressVal",
+  "phone": "phoneVal",
+  "mobile_phone": "mobilePhoneVal",
+  "shoe_size": "shoeSizeVal"
+}
